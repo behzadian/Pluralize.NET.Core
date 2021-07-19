@@ -81,7 +81,7 @@ namespace Pluralize.NET.Core.Rules
                     "swine",
                     "trout",
                     "traffic",
-                    "transporation",
+                    "transportation",
                     "tuna",
                     "wealth",
                     "welfare",

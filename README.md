@@ -1,0 +1,2 @@
+# Pluralize.NET.Core
+
